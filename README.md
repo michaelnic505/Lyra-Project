@@ -45,6 +45,10 @@ Lyra is designed to demonstrate a clean and scalable Java architecture with the 
 > The project is **actively under development**. Feedback and suggestions from the community are welcome to help shape the future implementation of `shared` and `client` modules.
 
 ---
+## Project Structure (Planned)
 
-## **Project Structure (Planned)**
+Some pictures or images or whatever:
+
+![Lyra Screenshot](https://github.com/michaelnic505/Lyra-Project/raw/server/Captura%20de%20pantalla%202025-11-28%20172701.png)
+
 
