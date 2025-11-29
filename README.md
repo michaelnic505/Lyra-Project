@@ -66,7 +66,7 @@ Some pictures of the project:
 
 
 
-![Lyra Screenshot 5](https://github.com/michaelnic505/Lyra-Project/raw/server/Captura%20de%20pantalla%202025-11-28%20172930.png)
+
 
 
 
