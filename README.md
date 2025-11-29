@@ -53,6 +53,16 @@ Some pictures of the project:
 ![Lyra Screenshot 2](images/Captura%20de%20pantalla%202025-11-28%20172725.png)
 ![Lyra Screenshot 3](images/Captura%20de%20pantalla%202025-11-28%20172742.png)
 ![Lyra Screenshot 4](images/Captura%20de%20pantalla%202025-11-28%20172803.png)
+![Screenshot 1](images/Captura%20de%20pantalla%202025-11-28%20181334.png)
+![Screenshot 2](images/Captura%20de%20pantalla%202025-11-28%20181349.png)
+![Screenshot 3](images/Captura%20de%20pantalla%202025-11-28%20181408.png)
+![Screenshot 4](images/Captura%20de%20pantalla%202025-11-28%20181430.png)
+![Screenshot 5](images/Captura%20de%20pantalla%202025-11-28%20181646.png)
+![Screenshot 6](images/Captura%20de%20pantalla%202025-11-28%20181705.png)
+![Screenshot 7](images/Captura%20de%20pantalla%202025-11-28%20181726.png)
+![Screenshot 8](images/Captura%20de%20pantalla%202025-11-28%20181749.png)
+![Screenshot 9](images/Captura%20de%20pantalla%202025-11-28%20181806.png)
+![Screenshot 10](images/Captura%20de%20pantalla%202025-11-28%20181837.png)
 
 
 
