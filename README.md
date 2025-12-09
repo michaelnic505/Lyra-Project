@@ -1,3 +1,16 @@
+# Update:
+
+Coming soon: the full documentation for Lyra Project, including installation guides, usage examples, and all related resources. Stay tuned for updates as we publish new content.
+What to Expect
+Detailed project documentation.
+Step-by-step installation and usage guides.
+Code examples and complementary resources.
+Regular updates as the project evolves.
+About Lyra Project
+
+Lyra Project is part of our initiatives at Stardust DevEngine, focused on creating innovative and accessible technology solutions, with special attention to user experience and inclusion.
+
+
 # Lyra Project
 
 **Lyra** is a modular client-server platform built entirely in **pure Java** with a **3-tier architecture** (Server, Shared, Client).  
